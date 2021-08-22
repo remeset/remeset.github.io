@@ -1,0 +1,20 @@
+Content of video entitled Why take IB Computer Science?
+
+Anthony Bernardo, head of Computer Science Department:
+"Hi, I'm Anthony Bernardo, head of Computer Science Department. I have taught Computer Science for eight years. In this video we will be sharing to you about the Computer Science subject. In today's rapidly developing world it is becoming increasingly important to gain an understanding of how computers and other similar devices function. Students develop problem-solving and critical thinking skills.
+Computer Science will provide a highly relevant course that is engaging, inspiring and rigorous."
+
+Justin Chan, Algorithm Connoisseur:
+"Computer Science allows you to develop a lot of independent thinking. I think you should consider Computer Science. Take the challenge to learn the Java programming language."
+
+Keving Tong, Programmer Extraordinaire:
+"It really helps with your logical thinking, because when you write a program, you have to design it very well. Computer Science is a great choice, because it is very versatile, very enjoyable, very cool. I'm pretty proud of most of my programs I guess."
+
+Mark Hayes, Computer Science Veteran:
+"Hello, my name is Mark Hayes and I've been teaching Computer Science at CIS for about five years.
+Who should take Computer Science? Well, anyone can take it, anyone who has some persistance and maybe some attention to detail."
+
+Nitu Nahar, Seasoned Moderator:
+"Hi, I'm Nitu Nahar. I've taught the IB Diploma for Computer Science for six years. I've been an external moderator for all these 10 years now. Computers are more like writing. Writing is a means of expressing and conveying ideas and here's the key point, any idea, saying that only a few people need to code today is like saying that only a few people need to read and write."
+
+In the beginning of August 2012 will be a much strong emphasis on the idea of thinking computationally, thinking algorithmically, and ultimately programming. Thinking computationally is about learning when to use a computer to solve a problem. It's all about identifying when computers will be useful in helping to solve a problem. Thinking algorithmically is about translating a problem into an algorithm

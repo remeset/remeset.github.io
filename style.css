@@ -1,0 +1,48 @@
+.background::before {
+    background: url(assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: .1;
+    content: "";
+    z-index: -1;
+}
+.repositioned-content {
+    position: absolute;
+    right: 100000rem;
+}
+.carousel-item img {
+    max-height: 16rem;
+}
+.course-structure .card-img-top {
+    height: 16rem;
+    object-fit: cover;
+}
+.logo {
+    max-height: 3rem;
+}
+.news .carousel-control-prev,
+.news .carousel-control-next {
+    width: 3%;
+}
+.profile-image {
+    max-width: 12rem;
+}
+.bottom-card .card-img-right {
+    max-height: 16rem;
+    max-width: 13rem;
+    object-fit: cover;
+}
+.carousel-item .project-management-process {
+    background-color: #666666;
+}
+.oop-img {
+    max-height: 9rem;
+}
+.oop-options li, .resource-docs li {
+    list-style-type: none;
+}
